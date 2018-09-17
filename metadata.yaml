@@ -1,0 +1,40 @@
+_repo: With-ski-sledge-over-Arctic-glaciers_52435
+_version: 0.0.1
+alternative_title: With ski and sledge over Arctic glaciers
+contributor:
+  illustrator:
+    agent_name: Garwood, Edmund Johnston
+    alias: Garwood, E. J. (Edmund Johnston)
+    birthdate: 1864
+    deathdate: 1949
+    gutenberg_agent_id: '46856'
+    url: http://www.gutenberg.org/2009/agents/46856
+creator:
+  author:
+    agent_name: Conway, William Martin, Sir
+    aliases:
+    - Conway, Martin, Sir
+    - Conway of Allington, William Martin Conway, Baron
+    - Conway, Sir William Martin
+    - Conway, W. Martin (William Martin), Sir
+    birthdate: 1856
+    deathdate: 1937
+    gutenberg_agent_id: '7347'
+    url: http://www.gutenberg.org/2009/agents/7347
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Conway
+description: ''
+gutenberg_issued: '2016-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52435'
+  lccn: 04018130
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Arctic regions'
+- GITenberg
+title: With ski & sledge over Arctic glaciers
+url: http://www.gutenberg.org/ebooks/52435
